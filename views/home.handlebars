@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<body>
+	<img src="1631534436977.jpeg">
+	<h1>Overview</h1>
+	<button onclick="Func()">Show Details</button>
+	<p id="details"></p>
+
+
+	<script>
+	function Func() {
+		fetch("./overview.json")
+		.then((res) => {
+			return res.json();
+		})
+		.then((data) => document.getElementById("details").innerHTML =
+			
+                
+               //
+               (data.close + "-" + "close" + "|" + data.changePercent + " - " + "change percent" + "|" + data.avgTotalVolume + " - " + "Average Total Volume" + "|" + data.low + "-" + "low" + "|" + data.open + "-" + "open" + "|" +  data.peRatio + "-" + "PE ratio" + "|" + data.week52High + "-" + "week 52 high" + "|" + data.week52Low + "-" + "week 52 low" + "|" + data.ytdChange + "-" + "ytd change" ));
+               
+          
+            
+               
+
+	}
+	 
+        
+	</script>
+	
+	<h1>Stats</h1>
+	<button onclick="Func2()">Show Details</button>
+	<p id="details1"></p>
+
+
+	<script>
+	function Func2() {
+		fetch("./stats.json")
+		.then((res) => {
+			return res.json();
+		})
+		.then((data) => document.getElementById("details1").innerHTML =
+			
+                
+               
+               (data.marketcap + "-" + "marketcap" + "|"  + data.week52change + " - " + "week 52 change" + "|" + data.day200MovingAvg + " - " + "Day 200 Moving Average" + "|" + data.day50MovingAvg  + "-" + "day 50 moving average" + "|" + data.ttmEPS + "-" + "ttmEPS" + "|" +  data.ttmDividendRate + "-" + "ttm dividend rate"  + "|" + data.dividendYield + "-" + "dividend yield" + "|" + data.nextDividendDate + "-" + "next dividend date" + "|" + data.beta + "-" + "beta"  + "|" + data.maxChangePercent + "-" + "max change percent" + "|" + data.year5ChangePercent + "-" + "year 5 change percent" + "|" + data.year2ChangePercent + "-" + "year 2 change percent" +"|" +  data.ytdChangePercent + "-" + "ytd change percent" + "|" + data.month6ChangePercent + "-" + "month 6 change percent" + "|" +  data.month3ChangePercent + "-" + "month 3 change percent" + "|" + data.month1ChangePercent + "-" + "month 1 change percent" + "|" + data.day30ChangePercent + "-" + "day 30 change percent" + "|" + data.day5ChangePercent + "-" + "day 5 change percent"
+
+
+
+
+                ));
+               
+          
+            
+               
+
+	}
+	 
+        
+	</script>
+	
+	
+	
+	
+	<h1>Company Info</h1>
+	<button onclick="Func3()">Show Details</button>
+	<p id="details2"></p>
+
+
+	<script>
+	function Func3() {
+		fetch("./info.json")
+		.then((res) => {
+			return res.json();
+		})
+		.then((data) => document.getElementById("details2").innerHTML =
+			
+                
+               
+               (data.symbol + "-" + "symbol" + "|"  + data.companyName + " - " + "company name" + "|" + data.industry + " - " + "industry" + "|" + data.description  + "-" + "description" + "|" + data.CEO + "-" + "CEO" + "|" +  data.employees + "-" + "employees"  + "|" + data.address + "-" + "address" + "|" + data.state + "-" + "state" + "|" + data.city + "-" + "city"  + "|" + data.zip + "-" + "zip" + "|" + data.country + "-" + "country" + "|" + data.phone + "-" + "phone" 
+
+
+
+
+                ));
+               
+          
+            
+               
+
+	}
+	 
+        
+	</script>
+
+
+
+
+
+	
+</body>
+</html>
+

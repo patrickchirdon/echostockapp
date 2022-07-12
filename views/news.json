@@ -1,0 +1,46 @@
+[
+  {
+    datetime: 1657580633000,
+    headline: 'Elliott Wave Stock Market Trading: NASDAQ, AMZN, AAPL, NVDA, TSLA, GOOGL, BRK.B,SQ,META,MSFT,BAC,JPM [Video]',
+    source: 'FXStreet',
+    url: 'https://cloud.iexapis.com/v1/news/article/3iM3pKB3ySVcY5cSqQCTbQb0cy9yFmE9PE5DbBbTBt0C',
+    summary: 'US Stock Market NASDAQ, AMZN, AAPL, NVDA, TSLA, GOOGL, BRK.B, SQ, META, MSFT, BAC, JPM. Elliott Wave Technical Analysis Stock Market Summary: US Earni',
+    related: 'TSLA,TL0-GD,TL0-GS,TL0-GH,TL0-GM,TL0-GF,TL0-GB,TL0-GY,TL0-GI,BAC,MSFT,MSF-GD,MSF-GS,MSF-GH,MSF-GM,MSF-GF,MSF-GB,MSF-GY,MSF-GI,GOOG,GOOGL,AAPL,AMZN,SQ,NVDA,NVD-GD,NVD-GS,NVD-GH,NVD-GM,NVD-GF,NVD-GB,NVD-GY,NVD-GI,JPM,BRK.A,BRK.B',
+    image: 'https://cloud.iexapis.com/v1/news/image/3iM3pKB3ySVcY5cSqQCTbQb0cy9yFmE9PE5DbBbTBt0C',
+    lang: 'en',
+    hasPaywall: false
+  },
+  {
+    datetime: 1657578342000,
+    headline: "Amazon''s smart grocery carts are coming to some Whole Foods stores",
+    source: 'CNBC',
+    url: 'https://cloud.iexapis.com/v1/news/article/4XGDi6wznJVrN4iQ75QTxP5kfoIV27ATsyiqjebCgYy',
+    summary: 'The Dash Cart, introduced in 2020, tracks and tallies up items as shoppers place them in the cart, enabling them to skip the checkout line.',
+    related: 'AMZN',
+    image: 'https://cloud.iexapis.com/v1/news/image/4XGDi6wznJVrN4iQ75QTxP5kfoIV27ATsyiqjebCgYy',
+    lang: 'en',
+    hasPaywall: false
+  },
+  {
+    datetime: 1657578167000,
+    headline: 'Why Amazon Stock Flopped Today',
+    source: 'The Motley Fool',
+    url: 'https://cloud.iexapis.com/v1/news/article/2SIRTc5HLvEhGxLEso3LAqRQFfNpLD0GZxTvHWSoRac3',
+    summary: 'A Bloomberg report says the company might be making a play for the wholesale business of a large retailer in India.',
+    related: 'AMZN',
+    image: 'https://cloud.iexapis.com/v1/news/image/2SIRTc5HLvEhGxLEso3LAqRQFfNpLD0GZxTvHWSoRac3',
+    lang: 'en',
+    hasPaywall: false
+  },
+  {
+    datetime: 1657576076000,
+    headline: 'German Amazon employees go on strike',
+    source: 'Daily Finland',
+    url: 'https://cloud.iexapis.com/v1/news/article/2FkDGnFCggyng5ULguHbnKejcbvB9jc3tCLEpawsbQQx',
+    summary: 'Amazon employees have stopped work at several locations in Germany following a strike call by the trade union Verdi, reported dpa. According to Verdi, the strike began at the start of the night shift and is…',
+    related: 'AMZN',
+    image: 'https://cloud.iexapis.com/v1/news/image/2FkDGnFCggyng5ULguHbnKejcbvB9jc3tCLEpawsbQQx',
+    lang: 'en',
+    hasPaywall: false
+  }
+]
