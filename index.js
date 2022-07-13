@@ -23,6 +23,17 @@ app.use(express.static('.'))
 
 var jsondata;
 
+var accountSid = "AC762f6adbc2f2d427b1678c7614663714" // Your Account SID from www.twilio.com/console
+var authToken = "d9b8068bc7b60c3242da8a4dffe6974b"  // Your Auth Token from www.twilio.com/console
+
+
+const client = require('twilio')(accountSid, authToken);
+
+
+
+
+                                
+                                 
 
 function call_api(finishedAPI, ticker){
     
@@ -115,9 +126,37 @@ function call_api(finishedAPI, ticker){
 
 
 
+app.use(express.urlencoded({
+  extended: true
+}))
+
+
 app.engine('handlebars', exphbs.engine());
 app.set('view engine', 'handlebars');
 
+
+
+app.post('/example', (req, res) => {
+  const phonenumber = req.body.phonenumber
+  
+    
+
+
+
+
+client.messages
+  .create({
+     body: 'https://echo.investments/',
+     from: '+13392184849',
+     to: phonenumber
+   })
+  .then(message => console.log(message.sid));
+  
+  
+ 
+  //...
+  res.end()
+})
 
 
 //Set index handlebar index  GET routes
@@ -138,6 +177,8 @@ app.get('/', function(req, res){
 	});
 
 });
+
+
 
 //Set index handlebar index  POST routes
 app.post('/', function(req, res){
