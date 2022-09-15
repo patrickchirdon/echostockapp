@@ -146,36 +146,21 @@ app.post('/example', (req, res) => {
   let overview2= JSON.stringify(overview, null, 2);
  
 
-  const replacedReplace = JSON.parse(JSON.stringify(overview2).replace("\"", ""))
-  
-  const replacedReplace2 = JSON.parse(JSON.stringify(replacedReplace).replace("{", ""))
-  const replacedReplace3 = JSON.parse(JSON.stringify(replacedReplace2).replace("}", ""))
-
 
 //info
   let rawdata2 = fs.readFileSync('info.json');
   let info = JSON.parse(rawdata2);
   let info2= JSON.stringify(info, null, 2);
 
-  
-  
-  const replacedReplace4 = JSON.parse(JSON.stringify(info2).replace("\"", ""))
-  
-  const replacedReplace5 = JSON.parse(JSON.stringify(replacedReplace4 ).replace("{", ""))
-  const replacedReplace6 = JSON.parse(JSON.stringify( replacedReplace5).replace("}", ""))
-  
-  
 
+  
   let rawdata3 = fs.readFileSync('stats.json');
-  let stats = JSON.parse(rawdata3);
+  let stats= JSON.parse(rawdata3);
   let stats2= JSON.stringify(stats, null, 2);
-  let stats3 = stats2.replace("{", "").replace("\"", "").replace("}", "");
+  
+  console.log(req.body)
   
   
-  const stats5 = JSON.parse(JSON.stringify(stats3).replace("\"", ""))
-  
-  const stats6 = JSON.parse(JSON.stringify(stats5).replace("{", ""))
-  const stats7 = JSON.parse(JSON.stringify(stats6).replace("}", ""))
   
 
 
@@ -188,6 +173,7 @@ app.post('/example', (req, res) => {
    })
   .then(message => console.log(message.sid));
   
+ 
   
 
   

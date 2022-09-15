@@ -1,46 +1,46 @@
 [
   {
-    datetime: 1663177559000,
-    headline: 'Tesla Halts Construction Expansion at German Plant',
-    source: 'The Street',
-    url: 'https://cloud.iexapis.com/v1/news/article/3Mb8hW4ucL41qUnm0fMTcqGu75MczXxTJU7B0c8S2zP8',
-    summary: "Tesla''s expansion into Germany faces hurdles and has stopped temporarily.",
-    related: 'TSLA,TL0-GD,TL0-GS,TL0-GH,TL0-GM,TL0-GF,TL0-GB,TL0-GY,TL0-GI',
-    image: 'https://cloud.iexapis.com/v1/news/image/3Mb8hW4ucL41qUnm0fMTcqGu75MczXxTJU7B0c8S2zP8',
+    datetime: 1663198559000,
+    headline: 'Twitter’s Shareholders Overwhelmingly Vote for Elon Musk to Take Over the Social Media Platform | Crypto Breaking News',
+    source: 'Crypto Breaking News',
+    url: 'https://cloud.iexapis.com/v1/news/article/2oJUZCC4qVRbUWHwCEYiFHq7RLzL9uEHaUDUnRwP6NJ8',
+    summary: 'Twitter’s shareholders have overwhelmingly voted for Tesla CEO Elon Musk to take over the social media platform. “Approximately 98.6% of the',
+    related: 'TWTR,TSLA,TL0-GD,TL0-GS,TL0-GH,TL0-GM,TL0-GF,TL0-GB,TL0-GY,TL0-GI',
+    image: 'https://cloud.iexapis.com/v1/news/image/2oJUZCC4qVRbUWHwCEYiFHq7RLzL9uEHaUDUnRwP6NJ8',
     lang: 'en',
     hasPaywall: false
   },
   {
-    datetime: 1663176335000,
-    headline: 'Tesla’s Cyberwhistle Sells Out Quickly',
-    source: 'Investing.com',
-    url: 'https://cloud.iexapis.com/v1/news/article/UZZTkDWh3Q2ZZb24JEHvsifAi9kPgIntsv0Hao3pZ9p',
-    summary: 'https://www.investing.com/news/stock-market-news/teslas-cyberwhistle-sells-out-quickly-432SI-2892254',
+    datetime: 1663198559000,
+    headline: "Twitter''s Shareholders Overwhelmingly Vote for Elon Musk to Take Over the Social Media Platform – Featured Bitcoin News",
+    source: 'News Bitcoin.com',
+    url: 'https://cloud.iexapis.com/v1/news/article/1rBuIf3e1yyt3kIG65QsT5CXFyDEb7AW4Q7m0xhocSg8',
+    summary: "Twitter''s shareholders have overwhelmingly voted for Tesla CEO Elon Musk to take over the social media platform.",
+    related: 'TWTR,TSLA,TL0-GD,TL0-GS,TL0-GH,TL0-GM,TL0-GF,TL0-GB,TL0-GY,TL0-GI',
+    image: 'https://cloud.iexapis.com/v1/news/image/1rBuIf3e1yyt3kIG65QsT5CXFyDEb7AW4Q7m0xhocSg8',
+    lang: 'en',
+    hasPaywall: false
+  },
+  {
+    datetime: 1663195104000,
+    headline: 'Tesla deceiving public on ‘Full Self-Driving’ and dangerous ‘Autopilot,’ lawsuit claims',
+    source: 'East Bay Times',
+    url: 'https://cloud.iexapis.com/v1/news/article/2v9c9rqp2tZKvwVZRzJSyFHyKVbaB1abwT8ph1pprrAY',
+    summary: "Tesla has claimed driver-assistance technologies are steps toward fully autonomous driving, but hasn''t come close to that goal, suit claims.",
     related: 'TSLA,TL0-GD,TL0-GS,TL0-GH,TL0-GM,TL0-GF,TL0-GB,TL0-GY,TL0-GI',
-    image: 'https://cloud.iexapis.com/v1/news/image/UZZTkDWh3Q2ZZb24JEHvsifAi9kPgIntsv0Hao3pZ9p',
+    image: 'https://cloud.iexapis.com/v1/news/image/2v9c9rqp2tZKvwVZRzJSyFHyKVbaB1abwT8ph1pprrAY',
+    lang: 'en',
+    hasPaywall: false
+  },
+  {
+    datetime: 1663191873000,
+    headline: 'Apple is Now the Most Shorted Stock in the U.S., Overtaking Tesla',
+    source: 'Investing.com',
+    url: 'https://cloud.iexapis.com/v1/news/article/xC314oNAmJ34BoSAZzGXPXHKz2293tWMtPpgos0YtXA',
+    summary: 'https://www.investing.com/news/stock-market-news/apple-is-now-the-most-shorted-stock-in-the-us-overtaking-tesla-432SI-2892379',
+    related: 'AAPL,TSLA,TL0-GD,TL0-GS,TL0-GH,TL0-GM,TL0-GF,TL0-GB,TL0-GY,TL0-GI',
+    image: 'https://cloud.iexapis.com/v1/news/image/xC314oNAmJ34BoSAZzGXPXHKz2293tWMtPpgos0YtXA',
     lang: 'en',
     hasPaywall: true
-  },
-  {
-    datetime: 1663176300000,
-    headline: 'Energy Stocks Soar On Jump In Oil; Goldman Expects Spike In Energy Market-Cap Weighting WithIn S&P',
-    source: 'Zero Hedge',
-    url: 'https://cloud.iexapis.com/v1/news/article/3cHiTCqtoX1qSgGAzW2NR748uvWY3GKNTVph04nzSgNc',
-    summary: `Energy Stocks Soar On Jump In Oil; Goldman Expects Spike In Energy Market-Cap Weighting WithIn S&P With tech stocks still reeling from the post-CPI rout (with the bizarre exception of Tesla which is enjoying another gamma squeeze), it is energy stocks'' turn to shine because after dumping yesterday even as commodities rebounded, with big thanks to the White House for setting an $80 "Biden bottom" in oil, and reminding us that the SPR drawdown will end at some point. Some ballpark math according to Goldman suggests there is ~20 mmbls remaining over ~5 weeks. In any case, energy equities are surging, aided by the continued jump in WTI which just hit $90 on news that Chinese mega city Chengdu is easing Covid restrictions, while optimism about an end to Covid Zero comes from the Reuters news that Moderna has talked with the Chinese government about supplying COVID-19 vaccines; at the same time, nat gas prices jumped 5.6% as temperatures rise in the US and on the possibility that coal shipments could be disrupted by a rail strike.`,
-    related: 'DVN,PXD,MRNA,TSLA,TL0-GD,TL0-GS,TL0-GH,TL0-GM,TL0-GF,TL0-GB,TL0-GY,TL0-GI,CTRA,XCQ-GD,XCQ-GS,XCQ-GM,XCQ-GF,XCQ-GB,XCQ-GY',
-    image: 'https://cloud.iexapis.com/v1/news/image/3cHiTCqtoX1qSgGAzW2NR748uvWY3GKNTVph04nzSgNc',
-    lang: 'en',
-    hasPaywall: false
-  },
-  {
-    datetime: 1663174738000,
-    headline: 'Ford Pitches Its EVs, Challenging Tesla',
-    source: 'IBTimes',
-    url: 'https://cloud.iexapis.com/v1/news/article/1WM3UdZhWd1sj4jMcbUZShGaPuFrfLJ61WIGvGipz3nT',
-    summary: 'Ford is looking to accelerate its EV push by cutting costs, increasing profits, and offering built to order vehicles.',
-    related: 'F,TSLA,TL0-GD,TL0-GS,TL0-GH,TL0-GM,TL0-GF,TL0-GB,TL0-GY,TL0-GI',
-    image: 'https://cloud.iexapis.com/v1/news/image/1WM3UdZhWd1sj4jMcbUZShGaPuFrfLJ61WIGvGipz3nT',
-    lang: 'en',
-    hasPaywall: false
   }
 ]
