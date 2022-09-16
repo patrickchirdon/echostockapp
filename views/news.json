@@ -1,5 +1,27 @@
 [
   {
+    datetime: 1663303030000,
+    headline: 'Tesla (TSLA) and Li-Cycle (LICY): Battery Makers Leverage IRA Benefits',
+    source: 'TipRanks',
+    url: 'https://cloud.iexapis.com/v1/news/article/2g4DhLDnCKEbKF39xyKHeH6tb1Bon77i37f1akCTpISG',
+    summary: 'The Inflation Reduction Act (IRA) offers production tax credits to U.S. battery manufacturers that produce batteries with locally sourced materials. Electric vehicle (EV) maker Tesla (NASDAQ:TSLA) and battery recycling company Li-Cycle Holdings Corp. (NYSE:LICY) are two such companies primed to benefit from the IRA. Battery Makers and Battery Recycling Take Center Stage The ongoing supply chain issues and scarcity of raw materials, combined with rising costs for battery sourcing, have forced EV manufacturers to slow down their manufacturing operations. Thus, EV manufacturers are setting up their own battery-making facilities to cut down on costs. Similarly, owing to the scarcity of materials, businesses are turning to battery recycling as an alternative.',
+    related: 'TSLA,TL0-GD,TL0-GS,TL0-GH,TL0-GM,TL0-GF,TL0-GB,TL0-GY,TL0-GI,LICY',
+    image: 'https://cloud.iexapis.com/v1/news/image/2g4DhLDnCKEbKF39xyKHeH6tb1Bon77i37f1akCTpISG',
+    lang: 'en',
+    hasPaywall: false
+  },
+  {
+    datetime: 1663302009000,
+    headline: 'Elon Musk accuses Twitter of fraud, wants ex-employee to testify in legal battle',
+    source: 'Hindustan Times',
+    url: 'https://cloud.iexapis.com/v1/news/article/2U9vDuNc8DPKVyizRJsXwtfIvKry9j7FzNWMat5Nn4Eg',
+    summary: 'Last week, the Tesla CEO slammed Twitter for its decision to pay millions of dollars to a whistleblower it had fired earlier this year.',
+    related: 'TWTR,TSLA,TL0-GD,TL0-GS,TL0-GH,TL0-GM,TL0-GF,TL0-GB,TL0-GY,TL0-GI',
+    image: 'https://cloud.iexapis.com/v1/news/image/2U9vDuNc8DPKVyizRJsXwtfIvKry9j7FzNWMat5Nn4Eg',
+    lang: 'en',
+    hasPaywall: false
+  },
+  {
     datetime: 1663297045000,
     headline: "Apple is now the market''s most-shorted stock. If Tesla is an example, that''s bullish. - BitcoinEthereumNews.com",
     source: 'Bitcoin Ethereum News',
@@ -18,28 +40,6 @@
     summary: "The retail strategy change doesn''t mean Tesla is holding back in its second largest market next to the United States. It is said that Tesla is increasing hiring to improve services in China.",
     related: 'TSLA,TL0-GD,TL0-GS,TL0-GH,TL0-GM,TL0-GF,TL0-GB,TL0-GY,TL0-GI',
     image: 'https://cloud.iexapis.com/v1/news/image/1X3NMRUfyeZMIYAVqdXRiRKk4uKjbT8uFQI11C98ayfC',
-    lang: 'en',
-    hasPaywall: false
-  },
-  {
-    datetime: 1663284553000,
-    headline: 'Tesla weighs bringing ‘Tesla Center’ strategy to China and closing retail stores',
-    source: 'Top Tech News',
-    url: 'https://cloud.iexapis.com/v1/news/article/1RoC3iJbFZht6HgR7ukNx1LaLYb1ZIYe3V7WwzdL7w6x',
-    summary: 'Tesla is reportedly considering bringing its “Tesla Center” strategy to China and closing some retail stores in high-rent locations. The post Tesla weighs bringing ‘Tesla Center’ strategy to China and closing retail stores appeared first on Top Tech News .',
-    related: 'TSLA,TL0-GD,TL0-GS,TL0-GH,TL0-GM,TL0-GF,TL0-GB,TL0-GY,TL0-GI',
-    image: 'https://cloud.iexapis.com/v1/news/image/1RoC3iJbFZht6HgR7ukNx1LaLYb1ZIYe3V7WwzdL7w6x',
-    lang: 'en',
-    hasPaywall: false
-  },
-  {
-    datetime: 1663284000000,
-    headline: 'Tesla Mulling Chinese Retail Model Reset, Including Moving Showrooms Out Of Large Cities Like Beijing',
-    source: 'Zero Hedge',
-    url: 'https://cloud.iexapis.com/v1/news/article/20R0t5Zmbd5DckYeGB8JnK7gIidT005gukPopm3Xo4xk',
-    summary: `Tesla Mulling Chinese Retail Model Reset, Including Moving Showrooms Out Of Large Cities Like Beijing In a move we''re absolutely sure has nothing to do with rising tensions between the West and China and/or perpetual Covid lockdowns, Tesla is reportedly mulling a "reset" for its retail strategy in the country. Tesla is "reevaluating the way it sells electric cars in China" and even considering closing some of its showrooms in malls in major cities like Beijing, Bloomberg reported on Wednesday, citing Reuters. Tesla appears to be looking for ways to cut its costs while, at the same time, addressing its years-long issue of not being able to provide adequate customer service. The idea for moving its retail locations is reportedly to put more emphasis on stores in less costly areas where it is easier to provide support. For now it appears that Tesla isn''t removing any of their footprint from China, just relocating it. The report says that the company is looking to add staff, with its China recruitment website showing more than 300 openings for service jobs this week.`,
-    related: 'TSLA,TL0-GD,TL0-GS,TL0-GH,TL0-GM,TL0-GF,TL0-GB,TL0-GY,TL0-GI',
-    image: 'https://cloud.iexapis.com/v1/news/image/20R0t5Zmbd5DckYeGB8JnK7gIidT005gukPopm3Xo4xk',
     lang: 'en',
     hasPaywall: false
   }
