@@ -1,46 +1,46 @@
 [
   {
-    datetime: 1663198559000,
-    headline: 'Twitter’s Shareholders Overwhelmingly Vote for Elon Musk to Take Over the Social Media Platform | Crypto Breaking News',
-    source: 'Crypto Breaking News',
-    url: 'https://cloud.iexapis.com/v1/news/article/2oJUZCC4qVRbUWHwCEYiFHq7RLzL9uEHaUDUnRwP6NJ8',
-    summary: 'Twitter’s shareholders have overwhelmingly voted for Tesla CEO Elon Musk to take over the social media platform. “Approximately 98.6% of the',
-    related: 'TWTR,TSLA,TL0-GD,TL0-GS,TL0-GH,TL0-GM,TL0-GF,TL0-GB,TL0-GY,TL0-GI',
-    image: 'https://cloud.iexapis.com/v1/news/image/2oJUZCC4qVRbUWHwCEYiFHq7RLzL9uEHaUDUnRwP6NJ8',
-    lang: 'en',
-    hasPaywall: false
-  },
-  {
-    datetime: 1663198559000,
-    headline: "Twitter''s Shareholders Overwhelmingly Vote for Elon Musk to Take Over the Social Media Platform – Featured Bitcoin News",
-    source: 'News Bitcoin.com',
-    url: 'https://cloud.iexapis.com/v1/news/article/1rBuIf3e1yyt3kIG65QsT5CXFyDEb7AW4Q7m0xhocSg8',
-    summary: "Twitter''s shareholders have overwhelmingly voted for Tesla CEO Elon Musk to take over the social media platform.",
-    related: 'TWTR,TSLA,TL0-GD,TL0-GS,TL0-GH,TL0-GM,TL0-GF,TL0-GB,TL0-GY,TL0-GI',
-    image: 'https://cloud.iexapis.com/v1/news/image/1rBuIf3e1yyt3kIG65QsT5CXFyDEb7AW4Q7m0xhocSg8',
-    lang: 'en',
-    hasPaywall: false
-  },
-  {
-    datetime: 1663195104000,
-    headline: 'Tesla deceiving public on ‘Full Self-Driving’ and dangerous ‘Autopilot,’ lawsuit claims',
-    source: 'East Bay Times',
-    url: 'https://cloud.iexapis.com/v1/news/article/2v9c9rqp2tZKvwVZRzJSyFHyKVbaB1abwT8ph1pprrAY',
-    summary: "Tesla has claimed driver-assistance technologies are steps toward fully autonomous driving, but hasn''t come close to that goal, suit claims.",
-    related: 'TSLA,TL0-GD,TL0-GS,TL0-GH,TL0-GM,TL0-GF,TL0-GB,TL0-GY,TL0-GI',
-    image: 'https://cloud.iexapis.com/v1/news/image/2v9c9rqp2tZKvwVZRzJSyFHyKVbaB1abwT8ph1pprrAY',
-    lang: 'en',
-    hasPaywall: false
-  },
-  {
-    datetime: 1663191873000,
-    headline: 'Apple is Now the Most Shorted Stock in the U.S., Overtaking Tesla',
-    source: 'Investing.com',
-    url: 'https://cloud.iexapis.com/v1/news/article/xC314oNAmJ34BoSAZzGXPXHKz2293tWMtPpgos0YtXA',
-    summary: 'https://www.investing.com/news/stock-market-news/apple-is-now-the-most-shorted-stock-in-the-us-overtaking-tesla-432SI-2892379',
+    datetime: 1663297045000,
+    headline: "Apple is now the market''s most-shorted stock. If Tesla is an example, that''s bullish. - BitcoinEthereumNews.com",
+    source: 'Bitcoin Ethereum News',
+    url: 'https://cloud.iexapis.com/v1/news/article/2TKRCfgyIBhPPGG6caUae1DkwJ36H0IH6XGySZsa6EKK',
+    summary: 'Apple shareholders need not worry that it’s the most-shorted U.S. stock. I’m referring to the report from short-seller analytics firm S3 Partners that,',
     related: 'AAPL,TSLA,TL0-GD,TL0-GS,TL0-GH,TL0-GM,TL0-GF,TL0-GB,TL0-GY,TL0-GI',
-    image: 'https://cloud.iexapis.com/v1/news/image/xC314oNAmJ34BoSAZzGXPXHKz2293tWMtPpgos0YtXA',
+    image: 'https://cloud.iexapis.com/v1/news/image/2TKRCfgyIBhPPGG6caUae1DkwJ36H0IH6XGySZsa6EKK',
     lang: 'en',
-    hasPaywall: true
+    hasPaywall: false
+  },
+  {
+    datetime: 1663290060000,
+    headline: 'Tesla May Change Retail Strategy in China, Moving Showrooms to Suburb',
+    source: 'TMT Post',
+    url: 'https://cloud.iexapis.com/v1/news/article/1X3NMRUfyeZMIYAVqdXRiRKk4uKjbT8uFQI11C98ayfC',
+    summary: "The retail strategy change doesn''t mean Tesla is holding back in its second largest market next to the United States. It is said that Tesla is increasing hiring to improve services in China.",
+    related: 'TSLA,TL0-GD,TL0-GS,TL0-GH,TL0-GM,TL0-GF,TL0-GB,TL0-GY,TL0-GI',
+    image: 'https://cloud.iexapis.com/v1/news/image/1X3NMRUfyeZMIYAVqdXRiRKk4uKjbT8uFQI11C98ayfC',
+    lang: 'en',
+    hasPaywall: false
+  },
+  {
+    datetime: 1663284553000,
+    headline: 'Tesla weighs bringing ‘Tesla Center’ strategy to China and closing retail stores',
+    source: 'Top Tech News',
+    url: 'https://cloud.iexapis.com/v1/news/article/1RoC3iJbFZht6HgR7ukNx1LaLYb1ZIYe3V7WwzdL7w6x',
+    summary: 'Tesla is reportedly considering bringing its “Tesla Center” strategy to China and closing some retail stores in high-rent locations. The post Tesla weighs bringing ‘Tesla Center’ strategy to China and closing retail stores appeared first on Top Tech News .',
+    related: 'TSLA,TL0-GD,TL0-GS,TL0-GH,TL0-GM,TL0-GF,TL0-GB,TL0-GY,TL0-GI',
+    image: 'https://cloud.iexapis.com/v1/news/image/1RoC3iJbFZht6HgR7ukNx1LaLYb1ZIYe3V7WwzdL7w6x',
+    lang: 'en',
+    hasPaywall: false
+  },
+  {
+    datetime: 1663284000000,
+    headline: 'Tesla Mulling Chinese Retail Model Reset, Including Moving Showrooms Out Of Large Cities Like Beijing',
+    source: 'Zero Hedge',
+    url: 'https://cloud.iexapis.com/v1/news/article/20R0t5Zmbd5DckYeGB8JnK7gIidT005gukPopm3Xo4xk',
+    summary: `Tesla Mulling Chinese Retail Model Reset, Including Moving Showrooms Out Of Large Cities Like Beijing In a move we''re absolutely sure has nothing to do with rising tensions between the West and China and/or perpetual Covid lockdowns, Tesla is reportedly mulling a "reset" for its retail strategy in the country. Tesla is "reevaluating the way it sells electric cars in China" and even considering closing some of its showrooms in malls in major cities like Beijing, Bloomberg reported on Wednesday, citing Reuters. Tesla appears to be looking for ways to cut its costs while, at the same time, addressing its years-long issue of not being able to provide adequate customer service. The idea for moving its retail locations is reportedly to put more emphasis on stores in less costly areas where it is easier to provide support. For now it appears that Tesla isn''t removing any of their footprint from China, just relocating it. The report says that the company is looking to add staff, with its China recruitment website showing more than 300 openings for service jobs this week.`,
+    related: 'TSLA,TL0-GD,TL0-GS,TL0-GH,TL0-GM,TL0-GF,TL0-GB,TL0-GY,TL0-GI',
+    image: 'https://cloud.iexapis.com/v1/news/image/20R0t5Zmbd5DckYeGB8JnK7gIidT005gukPopm3Xo4xk',
+    lang: 'en',
+    hasPaywall: false
   }
 ]
